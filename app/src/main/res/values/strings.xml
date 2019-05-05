@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RikadApps</string>
+    <string name="title_home_name">Rikad Fauzi Alawi</string>
+    <string name="title_home_skill">Network Engineer, Backend Programmer</string>
+    <string name="title_home_motto">Ukireun Dina Lalangit \n      Tataheun Dina Jero Iga</string>
+    <string name="title_home_alamat">Bandung, Padjajaran</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_music">Music</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_daily">Daily Activity</string>
+
+    <string-array name="daily_array">
+        <item>04.30 Bangun</item>
+        <item>07.00 Berangkat Kerja</item>
+        <item>12.00 Istirahat</item>
+        <item>05.00 Kuliah</item>
+        <item>22.00 Tidur</item>
+    </string-array>
+
+    <string-array name="musik_array">
+        <item>1. Tiny Moving Parts - Dakota 02:50</item>
+        <item>2. Tiny Moving Parts - Along the Lakeside 02:53</item>
+        <item>3. Tiny Moving Parts - Grayscale 02:03</item>
+        <item>4. Tiny Moving Parts - Vacation Bible School 03:20</item>
+        <item>5. Tiny Moving Parts - Clouds Above My Head 02:57</item>
+        <item>6. Tiny Moving Parts - I 01:17 buy track</item>
+        <item>7. Tiny Moving Parts - Waterbed 03:12</item>
+        <item>8. Tiny Moving Parts - Amateur Night 02:45</item>
+        <item>9. Tiny Moving Parts - II 01:07</item>
+        <item>10. Tiny Moving Parts - John P. 04:05</item>
+    </string-array>
+
+</resources>

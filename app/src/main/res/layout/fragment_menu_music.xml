@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuDailyFragment">
+
+    <view class="android.support.v7.app.AlertController$RecycleListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tabStripEnabled="true"
+        android:fontFamily="cursive"
+        android:textSize="20dp"
+        android:entries="@array/musik_array">
+
+    </view>
+
+</FrameLayout>
